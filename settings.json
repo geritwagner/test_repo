@@ -23,6 +23,19 @@
             },
             "source_prep_scripts": [],
             "comment": ""
+        },
+        {
+            "filename": "search/30_example_records.bib",
+            "search_type": "DB",
+            "source_name": "google",
+            "source_identifier": "google",
+            "search_parameters": "",
+            "search_script": {},
+            "conversion_script": {
+                "endpoint": "bibtex"
+            },
+            "source_prep_scripts": [],
+            "comment": null
         }
     ],
     "search": {
@@ -278,6 +291,7 @@
         ]
     },
     "screen": {
+        "explanation": null,
         "criteria": {},
         "scripts": [
             {
