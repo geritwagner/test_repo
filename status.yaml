@@ -16,9 +16,9 @@ colrev_status:
     pdf_needs_manual_retrieval: 0
     pdf_needs_retrieval: 0
     pdf_not_available: 0
-    pdf_prepared: 2
+    pdf_prepared: 0
     rev_excluded: 0
-    rev_included: 0
+    rev_included: 2
     rev_prescreen_excluded: 28
     rev_prescreen_included: 0
     rev_synthesized: 0
@@ -34,11 +34,11 @@ colrev_status:
     pdf_not_available: 0
     pdf_prepared: 2
     rev_excluded: 0
-    rev_included: 0
+    rev_included: 2
     rev_prescreen: 30
     rev_prescreen_excluded: 28
     rev_prescreen_included: 2
     rev_screen: 2
     rev_synthesized: 0
-completed_atomic_steps: 100
+completed_atomic_steps: 102
 completeness_condition: false
