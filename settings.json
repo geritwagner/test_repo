@@ -229,7 +229,7 @@
         ]
     },
     "prescreen": {
-        "explanation": "",
+        "explanation": "test",
         "scripts": [
             {
                 "endpoint": "scope_prescreen",
