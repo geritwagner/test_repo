@@ -299,10 +299,7 @@
     "data": {
         "scripts": [
             {
-                "endpoint": "MANUSCRIPT",
-                "paper_endpoint_version": "1.0",
-                "word_template": "APA-7.docx",
-                "csl_style": "apa.csl"
+                "endpoint": "GITHUB_PAGES"
             }
         ]
     }
