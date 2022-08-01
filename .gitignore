@@ -1,7 +1,6 @@
 *.bib.sav
 missing_pdf_files.csv
 manual_cleansing_statistics.csv
-data.csv
 venv
 .records_learned_settings
 .corrections
