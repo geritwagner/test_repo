@@ -224,10 +224,7 @@
         "same_source_merges": "prevent",
         "scripts": [
             {
-                "endpoint": "active_learning_training"
-            },
-            {
-                "endpoint": "active_learning_automated"
+                "endpoint": "simple_dedupe"
             }
         ]
     },
