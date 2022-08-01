@@ -11,12 +11,12 @@ colrev_status:
     md_retrieved: 0
     non_completed: 2
     non_processed: 0
-    pdf_imported: 2
+    pdf_imported: 0
     pdf_needs_manual_preparation: 0
     pdf_needs_manual_retrieval: 0
     pdf_needs_retrieval: 0
     pdf_not_available: 0
-    pdf_prepared: 0
+    pdf_prepared: 2
     rev_excluded: 0
     rev_included: 0
     rev_prescreen_excluded: 28
@@ -29,16 +29,16 @@ colrev_status:
     md_processed: 30
     md_retrieved: 30
     pdf_imported: 2
-    pdf_needs_manual_preparation: 0
+    pdf_needs_manual_preparation: 2
     pdf_needs_manual_retrieval: 2
     pdf_not_available: 0
-    pdf_prepared: 0
+    pdf_prepared: 2
     rev_excluded: 0
     rev_included: 0
     rev_prescreen: 30
     rev_prescreen_excluded: 28
     rev_prescreen_included: 2
-    rev_screen: 0
+    rev_screen: 2
     rev_synthesized: 0
-completed_atomic_steps: 96
+completed_atomic_steps: 100
 completeness_condition: false
